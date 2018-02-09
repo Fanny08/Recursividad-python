@@ -1,0 +1,3 @@
+# Recursividad-python
+from math import factorial
+factorial(10)
